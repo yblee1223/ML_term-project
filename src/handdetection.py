@@ -46,5 +46,3 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
-# Path: src/mediapipe.py
